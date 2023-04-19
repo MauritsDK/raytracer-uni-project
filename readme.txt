@@ -1,9 +1,4 @@
-Team members
-- Gabriëlle Zuiddam (4285794)
-- Maurits Dick      (5537509)
-- Arjan Adriaanse   (5757959)
-
-Controls
+fControls
 - Move camera: arrow keys and left control/shift
 - Rotate camera: W/A/S/D
 - Adjust field of view: Z/X
